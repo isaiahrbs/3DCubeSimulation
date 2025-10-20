@@ -29,6 +29,11 @@ This made it easier to write the rotation as C functions.
 
 <img width="921" height="187" alt="image" src="https://github.com/user-attachments/assets/43a4431f-3e26-4719-9646-38be7a1f1a92" />
 
+### into code:
+
+<img width="822" height="319" alt="image" src="https://github.com/user-attachments/assets/f42b26d5-ac1a-4ca6-ad42-9efc9c4e8c4a" />
+
+
 
 ### 3. **Rotation Functions in C**
 
