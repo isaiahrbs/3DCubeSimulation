@@ -13,6 +13,7 @@ This project is a simple 3D cube rotation visualizer written in C using OpenGL a
 ### 1. **3D Rotation Math**
 
 To rotate a point in 3D, I used rotation matrices for the X, Y, and Z axes, as found on Wikipedia.
+(https://en.wikipedia.org/wiki/Rotation_matrix)
 
 <img width="333" height="318" alt="image" src="https://github.com/user-attachments/assets/0a2ac833-11ab-4467-a16e-e907a0ce7473" />
 
