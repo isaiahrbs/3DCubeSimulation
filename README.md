@@ -61,7 +61,7 @@ I used OpenGL (with help from ChatGPT) to draw lines between the projected point
 ## Features
 
 - 3D cube rotation (X, Y, Z axes)
-- Manual 3D to 2D projection
+- 3D to 2D projection
 - Wireframe rendering
 - Real-time animation (60 FPS)
 - Clean window exit
