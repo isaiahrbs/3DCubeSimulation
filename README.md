@@ -75,6 +75,8 @@ I used OpenGL (with help from ChatGPT) to draw lines between the projected point
 ## Build & Run
 
 ```bash
+sudo apt update
+sudo apt install libglfw3-dev
 gcc cube.c -lglfw -lGL -lm -o cube
 ./cube
 ```
